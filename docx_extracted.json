@@ -1,0 +1,157 @@
+{
+  "text": [],
+  "tables": [
+    [
+      [
+        "",
+        "FATIGA Y SOMNOLENCIA ENCUESTA GESTION DE ALERTA TEMPRANA",
+        ""
+      ],
+      [
+        "gestión de Alerta Temprana: Encuesta de Fatiga y Somnolencia",
+        "gestión de Alerta Temprana: Encuesta de Fatiga y Somnolencia",
+        "gestión de Alerta Temprana: Encuesta de Fatiga y Somnolencia"
+      ],
+      [
+        "Set de preguntas realizadas por el supervisor o jefe de turno, para prevenir la ocurrencia de perdida de estado de alerta (gestión de alerta temprana).",
+        "Set de preguntas realizadas por el supervisor o jefe de turno, para prevenir la ocurrencia de perdida de estado de alerta (gestión de alerta temprana).",
+        "Set de preguntas realizadas por el supervisor o jefe de turno, para prevenir la ocurrencia de perdida de estado de alerta (gestión de alerta temprana)."
+      ]
+    ],
+    [
+      [
+        "N°",
+        "PREGUNTAS\n        (Durante las últimas semanas)",
+        "REFERENCIAS\n(guía para el supervisor que realiza la encuesta)",
+        "SI",
+        "NO"
+      ],
+      [
+        "1",
+        "¿Ha tenido dificultades para lograr un\ndescanso reparador?",
+        "Siente falta de energía, falta de memoria, tiene conductas\nerráticas",
+        "",
+        ""
+      ],
+      [
+        "",
+        "¿Presenta algún evento(s) que dificulte(n)\nsu buen dormir?",
+        "Ronca, habla dormido, tienen pesadillas, sufre de calambres",
+        "",
+        ""
+      ],
+      [
+        "3",
+        "¿Ha sufrido insomnio?",
+        "Se demora más de 30 min en poder quedarse dormido o se\ndespierta varias veces durante la noche sin poder volver a conciliar el sueño",
+        "",
+        ""
+      ],
+      [
+        "4",
+        "¿Duerme menos tiempo del necesario*",
+        "Menos de 5,5 (no considere una respuesta \"SI\" si siempre duerme fuera de este rango y logra descansar bien)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "¿Está consumiendo algún medicamento que provoque somnolencia o alguno de estos y no conoce sus efectos?",
+        "Ejemplos: Alprazolam, Lorazepam, Midazolam, clonazepam,\ndiazepam, soliden clorfenamina, pseudoefedrina +\nclorfenamina, ciclobenzaprima, clormezanona, acido valproico, etc.",
+        "",
+        ""
+      ],
+      [
+        "6",
+        "¿Padece alguna enfermedad de las siguientes, no tratada, que pudiese causar somnolencia?",
+        "Ejemplo: enfermedades psiquiátricas sin control ni tratamiento\nmédico, apnea de sueño, obesidad mórbida asociados a otras\nenfermedades como hipotiroidismo, anemia, asma, reflujo gastroesofágico.",
+        "",
+        ""
+      ],
+      [
+        "7",
+        "¿Existen factores externos que afecten la\ncalidad de su sueño*",
+        "Esta expuesto a mucho ruido, calor, frío, exceso de luz u otras\nsituaciones que interrumpan su sueño.",
+        "",
+        ""
+      ],
+      [
+        "8",
+        "¿Ha presentado eventos importantes de somnolencia?",
+        "Se queda dormido habitualmente conversando con alguien,\nviendo tv, esperando cambio de luz en semáforo, mientras, mientras conduce en carretera",
+        "",
+        ""
+      ],
+      [
+        "9",
+        "¿Ha tenido algún problema de que\ndisminuya su estado de alerta?",
+        "Preocupación familiar o personal; enfermedad de un cercano,\netc.",
+        "",
+        ""
+      ],
+      [
+        "10",
+        "¿Ha c  o  n  s  u  m   i  d  o   alcohol antes de iniciar el servicio?",
+        "Se realizará control como barrera blanda durante el proceso de\nCOVID-19",
+        "",
+        ""
+      ],
+      [
+        "11",
+        "¿He consumido drogas antes de iniciar el\nservicio?",
+        "Se realizará control como barrera blanda durante el proceso de\nCOVID-19",
+        "",
+        ""
+      ],
+      [
+        "Criterios para enviar a trabajador a chequeo médico.\n- Trabajador ha presentado 3 eventos de pérdida de alerta en un mismo turno.\n- Repetición de eventos de pérdida de alerta de un ciclo de trabajo.\n- Trabajador se presenta 2 días consecutivos en condiciones no aptas para operar.\n- Respuesta si en ítem 5 y 6.",
+        "Criterios para enviar a trabajador a chequeo médico.\n- Trabajador ha presentado 3 eventos de pérdida de alerta en un mismo turno.\n- Repetición de eventos de pérdida de alerta de un ciclo de trabajo.\n- Trabajador se presenta 2 días consecutivos en condiciones no aptas para operar.\n- Respuesta si en ítem 5 y 6.",
+        "Criterios para enviar a trabajador a chequeo médico.\n- Trabajador ha presentado 3 eventos de pérdida de alerta en un mismo turno.\n- Repetición de eventos de pérdida de alerta de un ciclo de trabajo.\n- Trabajador se presenta 2 días consecutivos en condiciones no aptas para operar.\n- Respuesta si en ítem 5 y 6.",
+        "",
+        ""
+      ],
+      [
+        "Criterios para enviar a trabajador a chequeo médico.\n- Trabajador ha presentado 3 eventos de pérdida de alerta en un mismo turno.\n- Repetición de eventos de pérdida de alerta de un ciclo de trabajo.\n- Trabajador se presenta 2 días consecutivos en condiciones no aptas para operar.\n- Respuesta si en ítem 5 y 6.",
+        "Criterios para enviar a trabajador a chequeo médico.\n- Trabajador ha presentado 3 eventos de pérdida de alerta en un mismo turno.\n- Repetición de eventos de pérdida de alerta de un ciclo de trabajo.\n- Trabajador se presenta 2 días consecutivos en condiciones no aptas para operar.\n- Respuesta si en ítem 5 y 6.",
+        "Criterios para enviar a trabajador a chequeo médico.\n- Trabajador ha presentado 3 eventos de pérdida de alerta en un mismo turno.\n- Repetición de eventos de pérdida de alerta de un ciclo de trabajo.\n- Trabajador se presenta 2 días consecutivos en condiciones no aptas para operar.\n- Respuesta si en ítem 5 y 6.",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nombre Conductor",
+        "Nombre Conductor",
+        "",
+        "Firma",
+        "Firma"
+      ],
+      [
+        "área y Cargo",
+        "área y Cargo",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Nombre Supervisor",
+        "Nombre Supervisor",
+        "Firma",
+        "Firma",
+        "Firma"
+      ],
+      [
+        "área y Cargo\n\nFecha",
+        "área y Cargo\n\nFecha",
+        "",
+        "",
+        ""
+      ]
+    ]
+  ]
+}
