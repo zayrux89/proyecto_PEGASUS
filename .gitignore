@@ -2,3 +2,8 @@
 __pycache__/
 *.pyc
 .env
+*.db
+*.sqlite3
+extract.py
+docx_extracted.json
+xlsx_extracted.json
